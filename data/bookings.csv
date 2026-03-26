@@ -1,0 +1,8 @@
+booking_id,user_id,booking_type,service
+1,1,call,cardiology
+2,2,online,dermatology
+3,4,call,cardiology
+4,5,online,neurology
+5,7,call,therapy
+6,8,online,dermatology
+7,10,call,therapy
